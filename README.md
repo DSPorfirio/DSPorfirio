@@ -20,6 +20,7 @@ Minha tarefa é o desenvolvimento e manutenção de sistemas internos para geren
 - Laravel, como API REST e micro serviços.
 - NestJS, como API REST.
 - Banco de dados relacionais (Postgresql, MySQL, SQLServer).
+- C#, VBNET, ASPNET CORE.
   
 ⚡ Frontend
 - ReactJS/Next, como microfrontend e sistemas robustos para gerenciamento e BackOffice.
